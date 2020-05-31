@@ -1,3 +1,5 @@
+XBStation 4G LTE Module is HAT Board for Raspberry with optimal and reliable design for industrial drone applications. It provides high-speed LTE connection and Power for companion computer operation. It also has a built-in Serial port for connecting Companion computer to Telemetry flight control. All connector in Stable Power Module is dronecode standard (JST GH and Molex CLICK-Mate).
+
 Each of these shield can be connected to Internet via PPP(Point to Point Protocol).
 
 Without further ado let us jump into the installation process:
